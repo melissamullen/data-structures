@@ -6,8 +6,10 @@
 
 int main() {
 
+  // Create a linked list
   LinkedList* linked_list = Create();
 
+  // Add integers to the linked list
   int a = 10;
   Node* node = CreateNode(&a, sizeof(int));  
   Push(linked_list, node);
@@ -16,7 +18,9 @@ int main() {
   node = CreateNode(&b, sizeof(int));
   Push(linked_list, node);
 
+  // Print the linked list
   PrintLinkedList(linked_list, PrintInt);
 
+  // Destroy the linked list
   Destroy(linked_list);
 }
