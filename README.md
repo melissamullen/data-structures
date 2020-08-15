@@ -1,5 +1,7 @@
 # data-structures
 
+## Linked List
+
 **Files**
 
 * *linked_list.c:*
