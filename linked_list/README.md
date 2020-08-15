@@ -1,6 +1,4 @@
-# data-structures
-
-## Linked List
+# Linked List
 
 **Files**
 
