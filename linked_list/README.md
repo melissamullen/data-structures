@@ -9,7 +9,7 @@
      * Linked lists allow for easy insertion and deletion.
 * Disadvantages:
      * Linked lists require more memory than arrays.
-     * Linked list traversal takes more time than array traversal – direct access via index is not possible.
+     * Linked list traversal takes more time than array traversal and direct access via index is not possible.
      * Singly linked lists do not allow for reverse traversal.
 
 **Files**
