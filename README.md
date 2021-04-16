@@ -20,3 +20,7 @@ A class representing a linked list.
 * *main.py:*
 
 An example usage of the linked list.
+
+**Build Instructions**
+
+`python main.py`
