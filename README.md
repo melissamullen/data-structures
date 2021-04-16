@@ -1,4 +1,4 @@
-**Linked List**
+# Linked List
 
 **Definition**
 
@@ -11,3 +11,17 @@
      * Linked lists require more memory than arrays.
      * Linked list traversal takes more time than array traversal – direct access via index is not possible.
      * Singly linked lists do not allow for reverse traversal.
+
+**Files**
+
+* *linked_list/LinkedList.java:* 
+
+A class representing a linked list.
+
+* *linked_list/Node.java:*
+
+A class representing a node of a linked list.
+
+* *Example.java:*
+
+An example usage of the linked list using integers.
