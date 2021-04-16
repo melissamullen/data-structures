@@ -7,7 +7,6 @@
 
 Stack* CreateStack(int capacity) {
   Stack* stack = (Stack*)malloc(sizeof(Stack));
-  stack->top = NULL;
   stack->capacity = capacity;
   stack->linked_list = (void*)malloc(stack->capacity * sizeof(void*));
   return stack;

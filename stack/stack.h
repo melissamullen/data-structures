@@ -6,7 +6,6 @@
 typedef struct stack Stack;
 
 typedef struct stack {
-  void* top;
   int capacity;
   LinkedList* linked_list;  
 } Stack;
