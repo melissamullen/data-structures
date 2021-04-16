@@ -17,6 +17,6 @@
 
 A class representing a linked list.
 
-* *linked_list.py:*
+* *main.py:*
 
 An example usage of the linked list.
