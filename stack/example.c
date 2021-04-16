@@ -15,17 +15,17 @@ int main() {
   int n = 5;
   PushToStack(stack, &n);
 
-  // Print the stack
-//  PrintStack(stack);
-
   // Pop the integer from the stack
   int *result = (int*)PopFromStack(stack);
 
   // Print the integer
-  printf("%d", *result);
+  printf("%d\n", *result);
+
+  // Print capacity of the stack
+  printf("Capacity = %d\n", stack->capacity);
 
   // Destroy stack
-//  DestroyStack(stack);
+  DestroyStack(stack);
 
   return 0;
 }
