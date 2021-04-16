@@ -1,3 +1,5 @@
+**Linked List**
+
 **Definition**
 
 * A linked list is a linear data structure in which elements are *not* stored in contiguous memory locations.
