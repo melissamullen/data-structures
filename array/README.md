@@ -1,6 +1,6 @@
 # Array
 
-** Definition**
+**Definition**
 
 * An array is a linear data structure in which elements are stored in contiguous memory locations.
 * Advantages:
