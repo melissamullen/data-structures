@@ -21,6 +21,6 @@ A class representing a linked list.
 
 An example usage of the linked list.
 
-**Build Instructions**
+**Note**
 
-`python main.py`
+* This implementation is a last-in-first-out (LIFO) singly linked list. It can therefore be used to implement a stack data structure.
