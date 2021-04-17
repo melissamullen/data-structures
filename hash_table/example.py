@@ -24,3 +24,17 @@ english_to_spanish = HashTable(405)
 english_to_spanish.insert("Hello", "Hola")
 english_to_spanish.display()
 english_to_spanish.search("Hello", "Hola")
+
+# Create a dictionary
+english_to_french = {"Hello": "Bonjour"}
+
+# Print the dictionary
+print(english_to_french)
+
+# Insert key/value pairs
+english_to_french["Good Evening"] = "Bonsoir"
+english_to_french["Goodbye"] = "Au revoir"
+for key, value in english_to_french.items():
+    if "Bonsoir" == value:
+        print("Found!")
+
