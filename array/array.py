@@ -19,5 +19,5 @@ class Array:
     def print_array(self):
         i = 0
         while self.data[i] != None:
-            print(str(self.data[i]) + " ")
+            print(self.data[i])
             i = i + 1
