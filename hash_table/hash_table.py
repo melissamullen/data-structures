@@ -11,6 +11,15 @@ class HashTable:
         hash = self.hash_function(key)
         self.hash_table[hash].append(value)
 
+    def search(self, key, value):
+        index = self.hash_function(key)
+        for name in self.hash_table[index]:
+            if name == value:
+                print("Found!")
+                return
+        print("Not Found.")
+        return
+
     def display(self):
         for i in range(self.size):
             print(i, end = " ")
