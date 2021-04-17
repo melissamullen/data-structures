@@ -3,6 +3,7 @@
 **Definition**
 
 * An array is a linear data structure in which elements are stored in contiguous memory locations.
+* The array name is a pointer to the address of the first element in the array.
 * Advantages:
     * Direct access via index is possible in O(1) time.
 * Disadvantages:
