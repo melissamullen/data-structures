@@ -8,4 +8,4 @@ arr = array.array('i', [1, 2, 3, 4, 5])
 np_arr = np.array([1, 2, 3, 4, 5, 6])
 
 # Create a Python list
-list = [1, 2, 3, 4, 5, 6, 7]
+list = ["hello", True, 3, 4, 5, 6, 7]
