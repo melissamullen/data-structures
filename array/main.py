@@ -1,5 +1,4 @@
 from array import *
-import pdb
 
 # Create array object
 array = Array()

@@ -1,5 +1,3 @@
-import pdb
-
 class Array:
 
     def __init__(self, data=None):
