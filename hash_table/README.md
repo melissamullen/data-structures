@@ -17,3 +17,6 @@
     * Do not accept null keys
 * Typically the best data structure for storing a large amount of data, and the worst for storing a small amount of data (due to the cost of hashing).
     
+**Hash Tables in Python**
+
+* Python's implementation of the hash table is a [dictionary](https://docs.python.org/3/tutorial/datastructures.html#dictionaries).
