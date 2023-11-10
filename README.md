@@ -1,4 +1,6 @@
-# data-structures
+# Data Structures
+
+## Project Overview
 
 This repository implements basic data structures in various programming languages.
 
