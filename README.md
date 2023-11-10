@@ -1,4 +1,4 @@
-# data-structures
+# Data Structures in Python
 
 This branch implements basic data structures in Python.
 
